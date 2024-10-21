@@ -1,0 +1,68 @@
+FairMoney is a credit-led mobile bank for emerging markets. The company was launched in 2017, operates in Nigeria and raised close to €50m from global investors like
+ Tiger Global, DST & Flourish Ventures. The company has offices in France, Nigeria, Germany, Latvia, the UK, Türkiye, and India.
+Watch the way FairMoney is building Africa's money story here
+
+
+
+
+
+Roles and Responsibilities 
+
+As a Collections Dialler Analyst at FairMoney, a microfinance institution based in Nigeria, your main duties and responsibilities will encompass, but are not limited to:
+
+
+Demonstrate a deep understanding of the credit industry, particularly in relation to collections and recovery processes for unsecured loans.
+Establish and define performance metrics to effectively measure the efficiency of the dialler system. Continuously track and enhance these metrics to drive improvements.
+Utilize data analysis and analytical techniques to articulate business and operational problem statements. Propose potential solutions based on a comprehensive understanding
+ of the problem's complexity.
+Develop expertise in collections dialler data and functionality, utilizing data-driven insights to analyze user interactions with the system. Identify optimization opportunities based on these insights.
+Create self-serve dashboards containing trend information and near real-time dashboards to evaluate the performance of recently launched features.
+Proactively monitor and make necessary adjustments to the dialler systems to maximize campaign outcomes.
+Implement corrective measures to address performance issues as they arise.
+
+Requirements
+
+Bachelor's degree preferred; an equivalent combination of education and experience may be substituted in lieu of a degree.
+A minimum of two to three (2-3) years of related technical or call centre experience, with automated dialler management in a blended call environment.
+Two to five (2-5) years of experience with SQL preferred, including data analysis, import, export, and presentation.
+Proficiency in utilising BigQuery for data analysis and manipulation.
+Strong expertise in Excel and Tableau for data analysis, reporting, and visualisation.
+Proficient in the administration and utilisation of predictive dialler systems.
+Familiarity with call centre operations and managing dialler campaigns in a blended call environment.
+Experience in monitoring and analysing dialler performance metrics, such as abandonment rate, reach and connect rate, and agent productivity among other KPIs
+Ability to troubleshoot dialler issues, identify root causes, and implement corrective actions to optimize performance.
+Excellent communication skills to collaborate with cross-functional teams, including call center agents, supervisors, IT, and management.
+
+Benefits
+
+Private Health Insurance
+Pension Plan
+Training & Development
+Recruitment Process
+
+A screening call with the Senior Recruiter for 30 minutes.
+Technical interview with the Data and Analytics team for 30-45 minutes.
+Final Discussion with Dialler Manager for 30-45 minutes.
+
+Desired Skills and Experience
+BigQuery
+Excel
+Microsoft Excel
+SQL
+Tableau
+
+See less
+Set alert for similar jobs
+Collections Analyst, Nigeria
+
+Set alert
+Benefits found in job post
+Medical insurance
+Pension plan
+How you match
+You’re in the top 25% of applicants based on your profile
+Skills associated with the job post
+Identified by LinkedIn
+
+2 skills on your profile
+Data Analysis and Analytical Skills
